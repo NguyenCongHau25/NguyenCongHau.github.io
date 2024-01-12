@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/profile.php?id=61550607626694">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCETtLgAtmCzcdtfYJXZCCZw>
+  <a href="https://www.youtube.com/channel/UCETtLgAtmCzcdtfYJXZCCZw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>

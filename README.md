@@ -6,7 +6,7 @@
 
 ### ❓HOW TO CONTACT WITH ME:
 
-<h3>   MY SOCIAL</h3>
+<h3>MY SOCIAL</h3>
 <div id="badges" align="left">
   <a href="https://www.facebook.com/profile.php?id=61550607626694">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="FaceBook Badge"/>
@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<h3>   MY GMAIL:</h3>
+<h3>MY GMAIL:</h3>
     
 ###
 - Gmail for Studying: 23520453@gm.uit.edu.vn
-- Gmail for Another Things: conghau1205@gmail.com
+- Gmail for Another Things: conghau121205@gmail.com
 
 ---
 ### :rocket: My Information :

@@ -41,7 +41,6 @@
   </style>
 </head>
 <body>
-
   <header>
     <h1>Hau Nguyen</h1>
   </header>

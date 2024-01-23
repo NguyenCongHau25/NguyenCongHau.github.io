@@ -1,41 +1,71 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/a0/c1/62/a0c162d942c67b8aa91b82b7459de9ec.jpg" height="676px" width="1200"/>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hau Nguyen - CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
 
----
+    header {
+      text-align: center;
+    }
 
-### ❓HOW TO CONTACT WITH ME:
+    h1, h2 {
+      color: #373434;
+    }
 
-<h3>MY SOCIAL</h3>
-<div id="badges" align="left">
-  <a href="https://www.facebook.com/profile.php?id=61550607626694">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="FaceBook Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCETtLgAtmCzcdtfYJXZCCZw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-<h3>MY GMAIL:</h3>
-    
-###
-- Gmail for Studying: 23520453@gm.uit.edu.vn
-- Gmail for Another Things: conghau121205@gmail.com
+    section {
+      margin-bottom: 20px;
+      width: 70%; /* Đặt chiều rộng của section */
+    }
 
----
-### :rocket: My Information :
-  - Name: Nguyễn Công Hậu.
-  - BirthDay: 12/12/2005
-  - Home Town: Tiền Giang.
-  - Studying Computer Science at University of Information Technology 
----
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TranAnhQuoc23521313&theme=dark)](https://git.io/streak-stats)
+    ul li {
+      margin-bottom: 10px;
+    }
 
----
+    .education, .experience {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-</div>
+  <header>
+    <h1>Hau Nguyen</h1>
+  </header>
+  
+  <section>
+    <h2>Introduce</h2>
+    <p>I'm a 1st year student in university. I'm studying about computer science.</p>
+  </section>
+
+  <section>
+    <h2>Contact Information</h2>
+    <ul>
+      <li>Email: conghau12122005@gmail.com</li>
+      <li>Phone: 0362**4438</li>
+      <li>GitHub: github.com/nguyenconghau25.io</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p><strong>University Information Technology</strong></p>
+    <p>Joining in Computer Science</p>
+    <p>Started: 2023</p>
+  </section>
+
+</body>
+</html>

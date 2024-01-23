@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -51,6 +51,14 @@
     <p>I'm a 1st year student in university. I'm studying about computer science.</p>
   </section>
 
+  
+  <section>
+    <h2>Education</h2>
+    <p><strong>University Information Technology</strong></p>
+    <p>Joining in Computer Science</p>
+    <p>Started: 2023</p>
+  </section>
+
   <section>
     <h2>Contact Information</h2>
     <ul>
@@ -60,12 +68,6 @@
     </ul>
   </section>
 
-  <section>
-    <h2>Education</h2>
-    <p><strong>University Information Technology</strong></p>
-    <p>Joining in Computer Science</p>
-    <p>Started: 2023</p>
-  </section>
 
 </body>
 </html>
